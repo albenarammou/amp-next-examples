@@ -1,4 +1,4 @@
-import TopNavBar from './TopNavBar.js';
+import TopNavBar from './theme/TopNavBar.js';
 import HeaderLogo from './HeaderLogo.js';
 import CartCount from './CartCount.js';
 
